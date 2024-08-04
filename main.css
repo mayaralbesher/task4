@@ -1,0 +1,15 @@
+.main{
+    text-align: center;
+}
+
+p{
+    color: grey;
+}
+.end{
+    color: grey;
+}
+.head{
+   p{
+        color: grey;
+    }
+}
